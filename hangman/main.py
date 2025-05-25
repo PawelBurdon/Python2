@@ -4,7 +4,7 @@ word_list = ["flowers", "onion", "ring"]
 
 
 chosen_word = word_list[rand.randint(0, len(word_list)-1)]
-print(chosen_word)
+# print(chosen_word)
 
 
 placeholder = ""
